@@ -76,7 +76,7 @@ function SignIn() {
                     </div>
                 </div>
                 <div className='text-right mb-4 cursor-pointer text-[#ff4d2d] font-medium' onClick={()=>navigate("/forgot-password")}>
-                  Forgot Password
+                  Forgot password
                 </div>
               
 
